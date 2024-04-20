@@ -1,7 +1,7 @@
 <h1 align="center">Prazer!👋 Me chamo Gustavo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustav0pilon&label=Profile%20views&color=0e75b6&style=flat" alt="gustav0pilon" /> </p>
 
-- 🌱 Estudando **MATLAB, Python, C, C++ e R para desenvolvimento de aplicações**
+- 🌱 Estudando **MATLAB, Python, C, C++ e R para desenvolvimento de aplicações e modelagem financeira**
 
 - 📫 Contate-me pelo email: **guspribeiro2@gmail.com**
 
